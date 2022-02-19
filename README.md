@@ -10,7 +10,6 @@ These 3 classes are very helpful in real-time applications, and classification.
 
 The test data set contains a mere 29 images, to encourage the use of real-world test images.
 
-Papers: American Sign Language Alphabet Recognition using Deep Learning
-
-Squeezenet Papers: Squeezene
+Papers:https://arxiv.org/pdf/1905.05487.pdf
+Squeezenet Papers: https://arxiv.org/pdf/1602.07360.pdf
 
